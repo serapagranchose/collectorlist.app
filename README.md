@@ -2,4 +2,4 @@
 
 # collectorlist.app
 
-A webapp that help collectors track their collections
+A webapp that helps collectors track their collections
